@@ -19,10 +19,10 @@ To run this analysis, you need to have Python installed along with the following
 * `scikit-learn` (`sklearn`)
 * `factor_analyzer`
 
-You can install them using pip:
-
-```bash
+You can install them using pip:```bash
 pip install pandas numpy matplotlib seaborn scikit-learn factor_analyzer
+
+
 
 ## 3. How to Run it.
 Open Jupyter Notebook: Launch Jupyter Notebook from your terminal:
